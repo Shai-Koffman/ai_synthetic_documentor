@@ -1,0 +1,5 @@
+Name: Eve Smith, Department: Engineering, Role: Director, Email: eve.smith@bord.com
+Name: Alex Brown, Department: HR, Role: Analyst, Email: alex.brown@bord.com
+Name: Charles Smith, Department: Sales, Role: Manager, Email: charles.smith@bord.com
+Name: John Brown, Department: Product, Role: Director, Email: john.brown@bord.com
+Name: John Doe, Department: Sales, Role: Director, Email: john.doe@bord.com

@@ -1,0 +1,10 @@
+Name: Eve Brown, Department: Sales, Role: Director, Email: eve.brown@shinobi-z.com
+Name: Charles Doe, Department: HR, Role: Coordinator, Email: charles.doe@shinobi-z.com
+Name: Diana Smith, Department: Finance, Role: Manager, Email: diana.smith@shinobi-z.com
+Name: Jane Brown, Department: Sales, Role: Manager, Email: jane.brown@shinobi-z.com
+Name: Alice Johnson, Department: Product, Role: Engineer, Email: alice.johnson@shinobi-z.com
+Name: Eve Johnson, Department: Finance, Role: Director, Email: eve.johnson@shinobi-z.com
+Name: Charles Wilson, Department: HR, Role: Coordinator, Email: charles.wilson@shinobi-z.com
+Name: Diana Johnson, Department: Product, Role: Analyst, Email: diana.johnson@shinobi-z.com
+Name: Alice Wilson, Department: Product, Role: Manager, Email: alice.wilson@shinobi-z.com
+Name: Jane Wilson, Department: Sales, Role: Specialist, Email: jane.wilson@shinobi-z.com

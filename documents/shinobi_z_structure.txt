@@ -1,0 +1,10 @@
+Name: Eve Miller, Department: Marketing, Role: Specialist, Email: eve.miller@shinobi-z.com
+Name: Eve Wilson, Department: Sales, Role: Manager, Email: eve.wilson@shinobi-z.com
+Name: Bob Davis, Department: Finance, Role: Engineer, Email: bob.davis@shinobi-z.com
+Name: Diana Johnson, Department: Marketing, Role: Specialist, Email: diana.johnson@shinobi-z.com
+Name: Bob Doe, Department: Sales, Role: Manager, Email: bob.doe@shinobi-z.com
+Name: Charles Smith, Department: Engineering, Role: Specialist, Email: charles.smith@shinobi-z.com
+Name: Bob Wilson, Department: HR, Role: Engineer, Email: bob.wilson@shinobi-z.com
+Name: Charles Miller, Department: Sales, Role: Director, Email: charles.miller@shinobi-z.com
+Name: John Wilson, Department: Product, Role: Specialist, Email: john.wilson@shinobi-z.com
+Name: Alex Taylor, Department: Sales, Role: Analyst, Email: alex.taylor@shinobi-z.com

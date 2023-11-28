@@ -1,0 +1,5 @@
+Name: Diana Smith, Department: Product, Role: Coordinator, Email: diana.smith@bord.com
+Name: Alice Brown, Department: Product, Role: Manager, Email: alice.brown@bord.com
+Name: Eve Miller, Department: Marketing, Role: Engineer, Email: eve.miller@bord.com
+Name: Alice Miller, Department: Engineering, Role: Coordinator, Email: alice.miller@bord.com
+Name: Alex Taylor, Department: Marketing, Role: Director, Email: alex.taylor@bord.com
